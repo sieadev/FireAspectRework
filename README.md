@@ -11,7 +11,8 @@ With this plugin, players can now use Fire Aspect enchanted books to light campf
 ## Project Bedrock to java
 
 
-This is the first of many following Plugins adding Bedrock features to Java. Since I am only working on this for my own amusement I can not and garuantee that this Project will grow fast how ever I am open for feedback and ideas
+
+This is the first of many following Plugins adding Bedrock features to Java. Since I am only working on this for amusement I can not guarantee that this Project will grow fast however I am open to feedback
 ## Authors
 
 - [@sieadev](https://www.github.com/sieadev)
