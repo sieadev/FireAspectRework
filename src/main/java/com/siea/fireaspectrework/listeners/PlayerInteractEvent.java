@@ -30,6 +30,10 @@ public class PlayerInteractEvent implements Listener {
             if (block.getType() == Material.CAMPFIRE) {
                 block.setType(Material.CAMPFIRE);
             }
+            if (block.getType() == Material.TNT) {
+                block.setType(Material.AIR);
+                Entity tnt = p.getWorld().spawnEntity(block.getLocation(), EntityType.PRIMED_TNT);
+            }
         }
     }
 }
