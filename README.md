@@ -8,6 +8,8 @@ With this plugin, players can now use Fire Aspect enchanted books to light campf
 
 - Light Campfires with Fire Aspect Books
 - Ignite Entitys with Fire Aspect Books
+- Ignite Tnt with Fire Aspect Books
+  
 ## Project Bedrock to java
 
 
