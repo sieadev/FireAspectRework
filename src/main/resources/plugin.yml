@@ -1,0 +1,5 @@
+name: FireAspectRework
+version: '${project.version}'
+author: siea
+main: com.siea.fireaspectrework.FireAspectRework
+api-version: 1.20
