@@ -1,3 +1,6 @@
+# This Plugin no longer receives any updates, future Minecraft versions may not support it.
+
+
 # Fire Aspect Rework
 
 With this plugin, players can now use Fire Aspect enchanted books to light campfires and ignite entities.
@@ -10,7 +13,7 @@ With this plugin, players can now use Fire Aspect enchanted books to light campf
 - Ignite Entitys with Fire Aspect Books
 - Ignite Tnt with Fire Aspect Books
   
-## Project Bedrock to java
+## Project Bedrock to Java
 
 
 
